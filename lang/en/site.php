@@ -1,0 +1,78 @@
+<?php
+return [
+
+
+    '404'=>'PAGE NOT FOUND',
+    'not'=>'The page you are looking for might have been removed had its name changed or is temporarily unavailable.',
+    'home'=>'Home',
+    'contact'=>'Contact Us',
+    'contact-'=>' - Contact Us',
+    'offer-'=>' - َQuotation ',
+    'blog'=>'Blog ',
+    'blog-'=>' - Blog ',
+    'about'=>'About Us',
+    'about-'=>'- About Us',
+    'services'=>'Our Services',
+    'services-'=>' - Our Services',
+    'pages'=>'Pages',
+    'gallery'=>'Gallery',
+    'gallery-'=>' - Gallery',
+    'phone'=>'Mobile',
+    'mobile'=>'Phone',
+    'email'=>'Email',
+    'quote'=>'Get A Quote',
+
+    'mission'=>'Our Mission',
+    'vision'=>'Our Vision',
+    'goals'=>'Our Goals',
+    'quick'=>'QUICK LINKS',
+    'info'=>'Contact Info',
+    'address'=>'Address',
+    'newsletter'=>'Join Our News Letter',
+    'sub'=>'Subscribe to receive all that is new',
+    'subscripe'=>'Subscribe Now',
+    'achieve'=>'OUR ACHIEVEMENTS',
+
+    'partners'=>'Our Trusted partners',
+    'more'=>'Read More ..',
+
+    'faqs'=>'Faqs',
+    'faqs-'=>' - Faqs',
+    'faq'=>'Frequently Asked Questions',
+
+    'start' => 'Start Chat',
+
+    'input0'=>'Customers',
+    'input2'=>'Counters',
+    'input3'=>'Years',
+
+    'homee'=>'Home',
+    'health'=>'Health',
+    'business'=>'Business',
+    'car'=>'Car',
+    'life'=>'Life',
+    'type'=>'Insurance Type',
+    'directions'=>'Directions',
+
+    'emp' => 'Employment',
+    'emp-' => '- Employment',
+    'jobs' => 'Jobs',
+    'jobs-' => ' - Jobs ',
+    'locations' => 'Our Locations',
+    'locations-' => ' - Our Locations',
+    'designed' => 'Design and development',
+
+    'join'=>'Join Now',
+    'qualifications'=>'Qualifications',
+    'age'=>'Age',
+    'name'=>'Name',
+    'email'=>'Email',
+    // 'phone'=>'Phone',
+    'subject'=>'Subject',
+    'message'=>'Message',
+    'send'=>'Send',
+    'success'=>'Message Sent Successfully',
+    'exp'=>'Our experts will reply you with a quote very soon',
+    'quote_q'=>'We always receive your requests and we are at your service, do not hesitate to ask for a quotation now and our team will contact you',
+];
+?>
